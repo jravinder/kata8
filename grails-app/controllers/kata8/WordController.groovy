@@ -10,6 +10,7 @@ class WordController {
     }
 
     def upload = {}
+    def upload = {}
     def uploadWords =
     {
         def wordsSix =[]
